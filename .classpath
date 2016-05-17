@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/avro-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka_2.11-0.9.0.1-cp1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka-avro-serializer-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka-clients-0.9.0.1-cp1.jar" sourcepath="/Users/Kanagha/Downloads/kafka-0.9.0.1-src"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka-json-serializer-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka-rest-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/kafka-schema-registry-client-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/netty-3.7.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/scala-library-2.11.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/scala-parser-combinators_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/scala-xml_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/snappy-java-1.1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/zkclient-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Kanagha/Downloads/confluent-2.0.1/share/java/kafka-rest/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
